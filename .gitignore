@@ -1,0 +1,17 @@
+/uploads/
+/DataNode-*/
+/.DS_Store/*
+/s3Files/*
+/localFiles/*
+node_modules/
+*.txt
+
+*.csv
+
+*.pdf
+*.tsv
+
+/credentials
+*.csv
+
+*.pem
